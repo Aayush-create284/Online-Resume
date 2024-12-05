@@ -1,2 +1,2 @@
 # Online-Resume
-This is first ever project.
+This is my first project.
